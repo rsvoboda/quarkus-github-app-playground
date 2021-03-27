@@ -439,4 +439,6 @@ triage:
     - labels: [kind/extension-proposal]
       title: quarkiverse
       notify: [gastaldi, gsmet, aloubyansky]
-
+  qe:
+    - rsvoboda
+    - mjurc
