@@ -440,5 +440,4 @@ triage:
       title: quarkiverse
       notify: [gastaldi, gsmet, aloubyansky]
   qe:
-    - rsvoboda
-    - mjurc
+    notify: [rsvoboda, mjurc]
